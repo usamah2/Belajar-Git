@@ -5,3 +5,4 @@ rencana ku kedepannya
   * ES6
   * Framework javascript
 - belajar java
+- Struktur Dasar Data

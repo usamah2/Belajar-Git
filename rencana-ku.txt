@@ -5,6 +5,7 @@ rencana ku kedepannya
   * ES6
   * Framework javascript
     ^ Vue
+    ^ react
 - belajar PHP
   ^ Laravel
 - Struktur Dasar Data
